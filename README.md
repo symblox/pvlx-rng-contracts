@@ -8,7 +8,7 @@ The [Symblox](https://symblox.io/) Random Generator (RNG) smart contracts.
 
 The Chainlink RNG is supported on mainnet, rinkeby and kovan.
 
-The Blockhash RNG is supported on mainnet, rinkeby, kovan, and ropsten.
+The Blockhash RNG is supported on VELAS mainnet and testnet.
 
 # Setup
 
